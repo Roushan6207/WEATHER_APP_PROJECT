@@ -46,7 +46,15 @@ This is a simple weather application built using *HTML, **CSS, and **JavaScript*
 - Improving UI/UX with more interactive elements.
 
 ## Screenshot
-(Include a screenshot of your application interface here)
+GRANT ACCESS 
+
+![image](https://github.com/user-attachments/assets/31f5c50b-79ec-4bd4-b415-7341335cbfbc)
+
+Weather at current location 
+
+![image](https://github.com/user-attachments/assets/ba440cb7-27d8-4402-9758-c7261876d727)
+
+
 
 ## Acknowledgments
 - [OpenWeather API](https://openweathermap.org/) for providing weather data.
